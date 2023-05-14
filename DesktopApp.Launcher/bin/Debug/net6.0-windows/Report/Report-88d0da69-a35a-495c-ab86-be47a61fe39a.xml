@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+  <Customer>
+    <CustomerId>2</CustomerId>
+    <Name>Ehsan</Name>
+    <Surname>Rezaei</Surname>
+    <IDNumber>8108166133184</IDNumber>
+    <Email>E.Rezaei.1981@gmail.com</Email>
+    <Tel>736639563</Tel>
+    <Country>South Africa</Country>
+    <CreationDateTime>05/14/2023 17:31:30</CreationDateTime>
+    <LastUpdateDateTime>05/14/2023 17:31:50</LastUpdateDateTime>
+  </Customer>
+</Customers>

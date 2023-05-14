@@ -1,0 +1,18 @@
+﻿{
+  "DatabaseSources": [
+    {
+      "DataSourceKeyName": "ArchSystem",
+      "ProfilerIsActive": true,
+      "DBEngine": "MSSQLServer",
+      "ConnectionParams": [
+        {
+          "Environment": "DEV",
+          "CatalogName": "dbArchSystem",
+          "DataSource": ".\\SQL2017",
+          "Username": "sa",
+          "Password": "123"
+        }
+      ]
+    }
+  ]
+}

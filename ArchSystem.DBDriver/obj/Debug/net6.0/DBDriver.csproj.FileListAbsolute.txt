@@ -1,0 +1,17 @@
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\DBDriver.deps.json
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\DBDriver.dll
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\DBDriver.pdb
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\ArchSystem.Core.dll
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\ArchSystem.Dto.dll
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\ArchSystem.Core.pdb
+D:\Projects\ArchSystem\DbDriver\bin\Debug\net6.0\ArchSystem.Dto.pdb
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.csproj.AssemblyReference.cache
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.AssemblyInfoInputs.cache
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.AssemblyInfo.cs
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.csproj.CoreCompileInputs.cache
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.csproj.CopyComplete
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.dll
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\refint\DBDriver.dll
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\DBDriver.pdb
+D:\Projects\ArchSystem\DbDriver\obj\Debug\net6.0\ref\DBDriver.dll

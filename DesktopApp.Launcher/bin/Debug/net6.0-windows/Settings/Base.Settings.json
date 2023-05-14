@@ -1,0 +1,3 @@
+﻿{
+  "Environment": "DEV", /* DEV:default | UAT | DEMO | LIVE , Note: The password in the Live environment needs to be encrypted*/
+}

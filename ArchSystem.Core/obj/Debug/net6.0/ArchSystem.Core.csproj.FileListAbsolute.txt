@@ -1,0 +1,15 @@
+D:\Projects\ArchSystem\ArchSystem.Core\bin\Debug\net6.0\ArchSystem.Core.deps.json
+D:\Projects\ArchSystem\ArchSystem.Core\bin\Debug\net6.0\ArchSystem.Core.dll
+D:\Projects\ArchSystem\ArchSystem.Core\bin\Debug\net6.0\ArchSystem.Core.pdb
+D:\Projects\ArchSystem\ArchSystem.Core\bin\Debug\net6.0\ArchSystem.Dto.dll
+D:\Projects\ArchSystem\ArchSystem.Core\bin\Debug\net6.0\ArchSystem.Dto.pdb
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.csproj.AssemblyReference.cache
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.AssemblyInfoInputs.cache
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.AssemblyInfo.cs
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.csproj.CoreCompileInputs.cache
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.csproj.CopyComplete
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.dll
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\refint\ArchSystem.Core.dll
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ArchSystem.Core.pdb
+D:\Projects\ArchSystem\ArchSystem.Core\obj\Debug\net6.0\ref\ArchSystem.Core.dll
